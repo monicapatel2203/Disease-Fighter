@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: caf38ff79853345d591fe784ccbfba46
+timeCreated: 1474113098
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bloodpattent1: {fileID: 2800000, guid: ddc95f7bf1982494393c90800355fd4a, type: 3}
+  - bloodpattent2: {instanceID: 0}
+  - bloodpattent3: {instanceID: 0}
+  - bloodpattent4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
